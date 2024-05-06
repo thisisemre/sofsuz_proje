@@ -1,2 +1,3 @@
 # sofsuz_proje
-Akbank ML proje
+
+Kullandığım dataset:https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
